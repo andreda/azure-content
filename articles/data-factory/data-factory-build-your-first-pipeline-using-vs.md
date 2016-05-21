@@ -78,7 +78,7 @@ In this step, you will link an on-demand HDInsight cluster to your data factory.
 3. Replace the **JSON** with the following:
 
 		{
-		  "name": "HDInsightOnDemandLinkedService",
+		  "name": "HDInsightOnDemandLinkedService1",
 		  "properties": {
 		    "type": "HDInsightOnDemand",
 		    "typeProperties": {
