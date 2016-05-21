@@ -244,7 +244,6 @@ In this step, you will create your first pipeline with a **HDInsightHive** activ
 		    }
 		}
 
- 	In the JSON snippet, you are creating a pipeline that consists of a single activity that uses Hive to process Data on an HDInsight cluster.
 	
 	In the JSON snippet, you are creating a pipeline that consists of a single activity that uses Hive to process Data on an HDInsight cluster.
 	
